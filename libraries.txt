@@ -1,0 +1,5 @@
+External Libraries:
+Apache Lucene
+https://lucene.apache.org/core/3_6_2/api/all/index.html
+External JARs:
+lucene-core-3.6.2
